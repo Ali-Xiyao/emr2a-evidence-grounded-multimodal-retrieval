@@ -1,0 +1,23 @@
+.gitignore
+  4f8624c6bd7228a1 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "b1df1c600be705015e5d40620075ad55ce72804d",
+  "prompts": {
+    "4f8624c6bd7228a1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95304a18-e0d9-421b-b24c-72af4d6d9ee5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Xiyao Wang <aliwangxy@icloud.com>",
+      "messages": [],
+      "total_additions": 14,
+      "total_deletions": 1,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
