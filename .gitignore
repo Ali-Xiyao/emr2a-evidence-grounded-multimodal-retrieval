@@ -11,3 +11,6 @@ data/processed/
 data/raw/
 *.npz
 .DS_Store
+
+# ReCode local database
+.recode
